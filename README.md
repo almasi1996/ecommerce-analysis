@@ -17,7 +17,14 @@ End-to-end data analysis of a UK online retailer — covering data cleaning, exp
 | At-risk revenue identified | £1.1M across 1,066 customers |
 | Predictive model R² | 0.597 |
 | Predictive model MAE | £512 |
+## Charts
 
+![Monthly Revenue](reports/01_monthly_revenue.png)
+![Top Products](reports/02_top_products.png)
+![Top Countries](reports/03_top_countries.png)
+![Day of Week](reports/04_day_of_week.png)
+![RFM Segments](reports/05_rfm_segments.png)
+![Model Performance](reports/06_model_performance.png)
 ---
 
 ## Project Structure
